@@ -1,5 +1,5 @@
 # TRYIT
 TRYING OUT GITHUB.
 <br>
-AUTHOR - SIBU
+AUTHOR - SIBU (sk)
 
